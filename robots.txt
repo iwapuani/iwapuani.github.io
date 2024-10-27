@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwapuani.github.io/sitemap_index.iwapuani
